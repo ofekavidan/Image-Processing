@@ -1,4 +1,6 @@
-# Image-Processing
+
+
+<h1 align="center">Image Processing</h1>
 
 As a Computer Science Student in the Hebrew University of Jerusalem, I chose to take the Image Processing course.
 
