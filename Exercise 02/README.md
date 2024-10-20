@@ -11,3 +11,7 @@ Fast Fourier Transform (FFT): Used to analyze the frequency components of the au
 Short-Time Fourier Transform (STFT): Applied in the second task to analyze and remove noise in non-stationary signals by processing the audio in time windows.
 
 Masking: Noise components are identified and set to zero to remove unwanted frequencies from the audio.
+
+![image](https://github.com/user-attachments/assets/ea0a5313-af6b-4744-8489-d7526741781d)
+
+![image](https://github.com/user-attachments/assets/7e13fc30-08d6-4890-84e6-238e34621d10)
