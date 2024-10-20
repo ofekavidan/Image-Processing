@@ -11,3 +11,7 @@ GAN Inversion: Uses pre-trained StyleGAN2 to invert the latent vector and optimi
 Optimization: The latent vector is iteratively optimized using gradient descent to minimize the difference between the generated image and the target degraded image.
 
 Degradation Models: Various degradation processes, such as masking or grayscale conversion, are applied to test the robustness of the restoration algorithm.
+
+![image](https://github.com/user-attachments/assets/addc68aa-3db2-491e-b173-fec620cb352d)
+
+![image](https://github.com/user-attachments/assets/3652682d-b223-4971-9046-24ae8c04a3be)
