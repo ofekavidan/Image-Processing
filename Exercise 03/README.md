@@ -14,3 +14,5 @@ Key Techniques:
 Gaussian Filtering: Used to extract low-frequency components from one image and high-frequency components from another for hybrid image creation.
 
 Pyramidal Blending: Combines images by building Gaussian and Laplacian pyramids and blending them based on a mask.
+
+![image](https://github.com/user-attachments/assets/1642374d-51cf-41ad-8d71-4ee09652ff48)
