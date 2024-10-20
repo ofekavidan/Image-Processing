@@ -1,6 +1,8 @@
 
 
-<h1 align="center">Image Processing</h1>
+<h1 align="center">  ![image](https://github.com/user-attachments/assets/5ad1af4e-b15a-421e-96e4-bf48506eb4af)
+  
+Image Processing</h1>
 
 As a Computer Science Student in the Hebrew University of Jerusalem, I chose to take the Image Processing course.
 
