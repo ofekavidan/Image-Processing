@@ -1,4 +1,4 @@
-Audio Noise Removal Using Short-Time Fourier Transform (STFT)
+# Audio Noise Removal Using Short-Time Fourier Transform (STFT)
 
 Project Overview
 
