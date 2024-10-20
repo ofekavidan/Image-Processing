@@ -1,4 +1,4 @@
-Image Processing - Scene Change Detection
+# Image Processing - Scene Change Detection
 
 Project Overview
 
